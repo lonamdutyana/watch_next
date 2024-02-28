@@ -20,7 +20,7 @@ This Python script, `watch_next.py`, reads descriptions of different movies from
 
 5. **Contributing**: Contributions are welcome! If you have ideas to improve the script or encounter any issues, feel free to fork the repository, make your changes, and submit a pull request.
 
-7.  **requirements text file**:
+7.  **Requirements text file**:
 [requirements.txt](https://github.com/lonamdutyana/watch_next/files/14439792/requirements.txt)
 
 
