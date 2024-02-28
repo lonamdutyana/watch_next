@@ -19,10 +19,10 @@ This Python script, `watch_next.py`, reads descriptions of different movies from
 
 4. **Get Movie Recommendation**: The script will analyze the given description and return the title of the most similar movie found in the `movies.txt` file.
 
-5. ## Contributing
-Contributions are welcome! If you have ideas to improve the script or encounter any issues, feel free to fork the repository, make your changes, and submit a pull request.
+5. ## Contributing**:
+   Contributions are welcome! If you have ideas to improve the script or encounter any issues, feel free to fork the         repository, make your changes, and submit a pull request.
 
-6. ## requirements
+7. ## requirements
 [requirements.txt](https://github.com/lonamdutyana/watch_next/files/14439792/requirements.txt)
 
 
