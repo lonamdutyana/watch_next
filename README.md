@@ -12,17 +12,15 @@ This Python script, `watch_next.py`, reads descriptions of different movies from
 2. **Run the Docker Container**: Start by building and running the Docker container:
     ```bash
     docker build -t movie_recommendation .
-    docker run -it movie_recommendation
-    ```
+    docker run -it movie_recommendation    ```
 
 3. **Input your Movie Description**: Inside the Docker container, you'll be prompted to enter a description of the movie. Type in your description and press Enter.
 
 4. **Get Movie Recommendation**: The script will analyze the given description and return the title of the most similar movie found in the `movies.txt` file.
 
-5. ## Contributing**:
-   Contributions are welcome! If you have ideas to improve the script or encounter any issues, feel free to fork the         repository, make your changes, and submit a pull request.
+5. **Contributing**: Contributions are welcome! If you have ideas to improve the script or encounter any issues, feel free to fork the repository, make your changes, and submit a pull request.
 
-7. ## requirements
+7.  **requirements**:
 [requirements.txt](https://github.com/lonamdutyana/watch_next/files/14439792/requirements.txt)
 
 
