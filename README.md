@@ -23,5 +23,6 @@ This Python script, `watch_next.py`, reads descriptions of different movies from
 7.  **Requirements Text File**:
 [requirements.txt](https://github.com/lonamdutyana/watch_next/files/14439792/requirements.txt)
 
+8. **dockerfile link**: https://hub.docker.com/repository/docker/mdutyanalona/watch_next
 
 
