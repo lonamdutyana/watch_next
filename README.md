@@ -1,4 +1,4 @@
-# Movie Recommendation Script
+# Movie Recommendation Script NLP
 
 ## Overview
 This Python script, `watch_next.py`, reads descriptions of different movies from a file named `movies.txt` and returns the title of the most similar movie based on a given description. The script is Dockerized for easy deployment.
