@@ -11,8 +11,8 @@ This Python script, `watch_next.py`, reads descriptions of different movies from
 
 2. **Run the Docker Container**: Start by building and running the Docker container:
     ```bash
-    docker build -t movie_recommendation .
-    docker run -it movie_recommendation    ```
+    docker build -t my-watch-next-app .
+    docker run my-watch-next-app    ```
 
 3. **Input your Movie Description**: Inside the Docker container, you'll be prompted to enter a description of the movie. Type in your description and press Enter.
 
@@ -23,6 +23,6 @@ This Python script, `watch_next.py`, reads descriptions of different movies from
 7.  **Requirements Text File**:
 [requirements.txt](https://github.com/lonamdutyana/watch_next/files/14439792/requirements.txt)
 
-8. **dockerfile link**: https://hub.docker.com/repository/docker/mdutyanalona/watch_next
+8. **dockerfile link**: https://hub.docker.com/repository/docker/mdutyanalona/my-watch-next-app
 
 
